@@ -3,3 +3,5 @@ module (
     input b
 );
 
+input test
+input test2
